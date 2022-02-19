@@ -1,0 +1,50 @@
+.h1,h2,h3,h4,h5,h6,
+p,a{
+    font-family: 'Lato', sans-serif;
+
+}
+
+.bg-light-blue{
+    background-color: #EDF2F9;
+}
+
+.w-70{
+    width: 70% !important;
+}
+.br-20{
+    border-radius: 20px;
+}
+
+.br-12{
+    border-radius: 12px;
+}
+
+.bs-grey{
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 2px 4px rgba(0, 0, 0, 0.25);
+}
+
+.border_none{
+    border:none !important
+}
+
+.bg-btn-blue{
+    background-color: #8BC6FD;
+}
+
+.c-white{
+color: white;
+}
+
+.c-blue{
+    color:#82C1FB !important;
+}
+
+.img-box {
+    height: 175px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .f-bold{
+      font-weight: bold;
+  }
